@@ -10,11 +10,13 @@ For more details, check out the product page at
 
 ### Description
 
-Bosch has stepped up their game with their new BME280 sensor, an environmental sensor with temperature, barometric pressure and humidity! This sensor is great for all sorts of weather/environmental sensing and can even be used in both I2C and SPI!
+Here's another super handy add-on for your Raspberry Pi computer, perfect for 'head-less' setups! The PiUART adds a MicroUSB to serial connection so you can use any serial port software to connect to the Pi's console. It plugs in and is fast and easy to add whenever you need to connect to your Pi. Two LEDs connect to RX and TX on the serial converter chip so you get blinking whenever data is sent or received.
 
-This precision sensor from Bosch is the best low-cost sensing solution for measuring humidity with ±3% accuracy, barometric pressure with ±1 hPa absolute accuraccy, and temperature with ±1.0°C accuracy. Because pressure changes with altitude, and the pressure measurements are so good, you can also use it as an altimeter with  ±1 meter or better accuracy!
+We had some space left over, so the PiUART also comes with an on-off switch with a 4 Amp transistor. You can power your Pi through the microUSB port and then use the switch whenever you want to cut power, without having to unplug the cable. Low-power usage Pi's like the Pi Zero and A+ can thus be powered and controlled from a single cable connected to your computer. Heavy-hitter Pi's like the Pi 2 and Pi 3 may draw too much power from a computer USB port, so check if your motherboard has a high-current USB port before trying.
 
-The BME280 is the next-generation of sensors from Bosch, and is the upgrade to the BMP085/BMP180/BMP183 - with a low altitude noise of 0.25m and the same fast conversion time. It has the same specifications, but can use either I2C or SPI. For simple easy wiring, go with I2C. If you want to connect a bunch of sensors without worrying about I2C address collisions, go with SPI.
+Comes fully assembled and ready to go, plug into your Pi, and on Mac OS X install the driver - within 2 minutes and you'll be ready to go.
+
+Works with any Raspberry Pi computer (Pi 1, 2, 3, Zero, etc)
 
 ### License
 
